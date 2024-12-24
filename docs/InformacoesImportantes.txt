@@ -1,0 +1,9 @@
+Lista com alguns comandos Git utéis para este projeto:
+1. git init - Inicializar repositório.
+2. git add . - Adicionar arquivos.
+3. git commit -m "mensagem" - Fazer commit.
+4. git branch nome - Criar branch.
+5. git checkout nome - Trocar de branch.
+6. git merge nome - Integrar mudanças.
+7. git push origin nome - Enviar mudanças para GitHub.
+8. git pull origin nome - Atualizar repositório local.
